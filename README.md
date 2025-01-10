@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> MThu Website</title>
+ <title>My GitHub Website</title>
 </head>
 <body>
     <h1>Welcome to My Website</h1>
